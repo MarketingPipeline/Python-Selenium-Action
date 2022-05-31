@@ -30,9 +30,9 @@ To use this on <b><i>Github</b></i>:
 
 - Make changes as needed to the Python script <code>Selenium-Template.py</code>. 
 
+- If you change the name Selenium-Template.py - reflect the changes in the GitHub Action <code>Selenium-Action_Template.yaml</code> file. 
 
-- If you change the name Selenium-Template.py - reflect the changes in your GitHub Action <code>yaml</code> file. 
-
+- Make changes as needed to the <code>Selenium-Action_Template.yaml</code> file.
 
 
 <br>
@@ -51,7 +51,10 @@ To use this on <b><i>Github</b></i>:
 
 An example of the template sucessfully running on GitHub:
 
-[Successful Action Run](https://github.com/MarketingPipeline/Python-Selenium-Action/actions/runs/2412648410)
+
+[Results From Successful Python Selenium Action](https://github.com/MarketingPipeline/Python-Selenium-Action/blob/main/GitHub_Action_Results.txt)
+
+[Successful Action Run](https://github.com/MarketingPipeline/Python-Selenium-Action/actions/runs/2412796846)
 
 
 

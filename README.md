@@ -38,7 +38,7 @@ To use this on <b><i>Github</b></i>:
 
 <br>
 
-#### Demo 
+#### Demo(s) 
 
 <p align="center">
  <img alt="" src="./demo/demo.png" width="500" height="320" />
@@ -47,7 +47,12 @@ To use this on <b><i>Github</b></i>:
 <p align="center">
    This image was taken via a GitHub Action!
   </p>
-  
+
+<br>
+
+An example of the template sucessfully running on GitHub:
+
+[Successful Action Run](https://github.com/MarketingPipeline/Python-Selenium-Action/actions/runs/2412648410)
 
 
 

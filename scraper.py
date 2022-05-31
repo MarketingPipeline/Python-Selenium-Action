@@ -25,5 +25,5 @@ for option in options:
     
 driver = webdriver.Chrome()
 
-driver.get('http://nytimes.com')
+driver.get('http://github.com')
 print(driver.title)

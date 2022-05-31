@@ -44,7 +44,7 @@ jobs:
       - name: Run the scraping script
         working-directory: ./
         run: |
-         INPUT_STORE=${{ github.event.inputs.Files }} INPUT_STORE2=${{ github.event.inputs.Directory_To_Get_HTML_File }} INPUT_STORE3=${{ github.event.inputs.Directory_To_Save_HTML_File }}  INPUT_STORE4=${{ github.event.repository.name }} python screenshotter.py
+         INPUT_STORE=${{ github.event.inputs.Files }} INPUT_STORE2=${{ github.event.inputs.Directory_To_Get_HTML_File }} INPUT_STORE3=${{ github.event.inputs.Directory_To_Save_HTML_File }}  INPUT_STORE4=${{ github.event.repository.name }} python demo/demo.py
     
 
       - name: Commit and Push

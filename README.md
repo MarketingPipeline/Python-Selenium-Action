@@ -25,11 +25,15 @@ To use this on <b><i>Github</b></i>:
 - Use this
 [template](https://github.com/MarketingPipeline/Python-Selenium-Action/generate)
 
+- Run the action "Run Selenium On GitHub Action" which will print GitHub site title. 
+
 - Make changes as needed to the Python script <code>Selenium-Template.py</code>. 
 
 - Delete the demo folder, and <code>demo.yaml</code> action
 
 - If you change the name Selenium-Template.py - reflect the changes in your GitHub Action <code>yaml</code> file. 
+
+
 
 <br>
 

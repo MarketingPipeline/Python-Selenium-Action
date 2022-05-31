@@ -43,7 +43,7 @@ for option in options:
 input_variable = os.environ['INPUT_STORE']
 
 
-input_variable2 = os.environ['INPUT_STORE2']
+input_variable2 = ""
 input_variable3 = os.environ['INPUT_STORE3']
 input_variable4 = os.environ['INPUT_STORE4']
 

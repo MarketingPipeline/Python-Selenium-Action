@@ -120,7 +120,7 @@ for s in File_Names_List:
         driver.execute_script("document.querySelector('html').style.overflow = 'hidden';")
         time.sleep(Sleep)
         el = driver.find_element_by_tag_name('body')
-        el = driver.save_screenshot(ScreenshotPath)
+        el = driver.save_screenshot("./demo/demo.png")
         print("Screenshot captured")
         print(Link)
         print(ScreenshotPath)

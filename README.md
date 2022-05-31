@@ -13,7 +13,7 @@
    
  
 No need to struggle to figure out how to run a Python Selenium script with a GitHub Action. 
-This is a ready to use template for running Selenium with Python via GitHub Actions either headless or non-headless.
+  This is a <b>ready to use</b> template for running Selenium with Python via GitHub Actions either headless or non-headless.
 </div>
 
 

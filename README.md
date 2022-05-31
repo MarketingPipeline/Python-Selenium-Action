@@ -6,7 +6,7 @@
   <img height="400" src="https://i.imgur.com/s0CDqF5.png" />
 
   
-[![GitHub Contributors](https://img.shields.io/github/contributors/MarketingPipeline/Python-Selenium-Action)](https://github.com/MarketingPipeline/Python-Selenium-Action/graphs/contributors) [![GitHub issues](https://badgen.net/github/issues/MarketingPipeline/Python-Selenium-Action/)](https://GitHub.com/MarketingPipeline/Python-Selenium-Action/issues/) [![GitHub License](https://img.shields.io/github/license/MarketingPipeline/Python-Selenium-Action)](https://github.com/MarketingPipeline/Python-Selenium-Action/blob/main/LICENSE) 
+[![GitHub Contributors](https://img.shields.io/github/contributors/MarketingPipeline/Python-Selenium-Action)](https://github.com/MarketingPipeline/Python-Selenium-Action/graphs/contributors) [![GitHub issues](https://badgen.net/github/issues/MarketingPipeline/Python-Selenium-Action)](https://GitHub.com/MarketingPipeline/Python-Selenium-Action/issues/) [![GitHub License](https://img.shields.io/github/license/MarketingPipeline/Python-Selenium-Action)](https://github.com/MarketingPipeline/Python-Selenium-Action/blob/main/LICENSE) 
   
   
 
@@ -30,7 +30,6 @@ To use this on <b><i>Github</b></i>:
 
 - Make changes as needed to the Python script <code>Selenium-Template.py</code>. 
 
-- Delete the demo folder, and <code>demo.yaml</code> action
 
 - If you change the name Selenium-Template.py - reflect the changes in your GitHub Action <code>yaml</code> file. 
 
@@ -41,7 +40,7 @@ To use this on <b><i>Github</b></i>:
 #### Demo(s) 
 
 <p align="center">
- <img alt="" src="./demo/demo.png" width="500" height="320" />
+ <img alt="" src="https://i.imgur.com/qtzEibg.png" width="500" height="320" />
 </p>
 
 <p align="center">

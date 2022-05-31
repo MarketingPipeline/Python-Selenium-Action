@@ -124,6 +124,7 @@ for s in File_Names_List:
         print("Screenshot captured")
         print(Link)
         print(ScreenshotPath)
+        print(FilePath)
     except IOError as e:
         print(e)
 

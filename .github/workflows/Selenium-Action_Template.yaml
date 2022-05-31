@@ -23,4 +23,4 @@ jobs:
         run: sudo apt-get install xvfb
 
       - name: Running the Python script
-        run: python scraper.py  
+        run: python Selenium-Template.py

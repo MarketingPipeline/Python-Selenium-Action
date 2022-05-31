@@ -23,7 +23,7 @@ To use this on <b><i>Github</b></i>:
 - Use this
 [template](https://github.com/MarketingPipeline/Python-Selenium-Action/generate)
 
-- Make changes as needed to the Python script. 
+- Make changes as needed to the Python script <code>Selenium-Template.py</code>. 
 
 - Delete the demo folder, and <code>demo.yaml</code> action
 

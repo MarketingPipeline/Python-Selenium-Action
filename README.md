@@ -1,4 +1,4 @@
-# Selenium-GitHub-Actions
+# Python-Selenium-Action
 
 
 

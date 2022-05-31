@@ -7,7 +7,7 @@
 
   
 
- ![GitHub](https://img.shields.io/github/contributors/MarketingPipeline/Python-Selenium-Action)    [![GitHub issues](https://badgen.net/github/issues/MarketingPipeline/Python-Selenium-Action/)](https://GitHub.com/MarketingPipeline/Python-Selenium-Action/issues/) ![GitHub](https://img.shields.io/github/license/MarketingPipeline/Python-Selenium-Action/)
+ ![GitHub](https://img.shields.io/github/contributors/MarketingPipeline/Python-Selenium-Action)    [![GitHub issues](https://badgen.net/github/issues/MarketingPipeline/Python-Selenium-Action/)](https://GitHub.com/MarketingPipeline/Python-Selenium-Action/issues/) ![GitHub](https://img.shields.io/github/license/MarketingPipeline/Python-Selenium-Action)
    
  
 A ready to use template for running Selenium with Python via GitHub Actions either headless or non-headless.

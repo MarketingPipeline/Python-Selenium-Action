@@ -8,12 +8,13 @@
   
 [![GitHub Contributors](https://img.shields.io/github/contributors/MarketingPipeline/Python-Selenium-Action)](https://github.com/MarketingPipeline/Python-Selenium-Action/graphs/contributors) [![GitHub issues](https://badgen.net/github/issues/MarketingPipeline/Python-Selenium-Action)](https://GitHub.com/MarketingPipeline/Python-Selenium-Action/issues/) [![GitHub License](https://img.shields.io/github/license/MarketingPipeline/Python-Selenium-Action)](https://github.com/MarketingPipeline/Python-Selenium-Action/blob/main/LICENSE) 
   
-  
+ 
+
 
    
  
-No need to struggle to figure out how to run a Python Selenium script with a GitHub Action. 
-  This is a <b>ready to use</b> template for running Selenium with Python via GitHub Actions either headless or non-headless.
+No need to struggle to figure out how to run a Python Selenium script with a  [GitHub Action](https://github.com/features/actions). 
+  This is a <b>ready to use</b> template for running Selenium with Python via [GitHub Actions](https://github.com/features/actions) either headless or non-headless.
 </div>
 
 
@@ -21,7 +22,7 @@ No need to struggle to figure out how to run a Python Selenium script with a Git
 ## Example and usage
 
 
-To use this on <b><i>Github</b></i>:
+To use <b><i>Github Action</b></i>:
 
 - Use this
 [template](https://github.com/MarketingPipeline/Python-Selenium-Action/generate)
@@ -43,18 +44,17 @@ To use this on <b><i>Github</b></i>:
  <img alt="" src="https://i.imgur.com/qtzEibg.png" width="500" height="320" />
 </p>
 
-<p align="center">
-   This image was taken via a GitHub Action!
-  </p>
+<div align="center">
+This image was taken via a <a href="https://github.com/features/actions">GitHub Action</a>
+  </div>
 
+<br> 
+An example of the template sucessfully running on GitHub:
 <br>
 
-An example of the template sucessfully running on GitHub:
+ - [Results From Successful Python Selenium Action](https://github.com/MarketingPipeline/Python-Selenium-Action/blob/main/GitHub_Action_Results.txt)
 
-
-[Results From Successful Python Selenium Action](https://github.com/MarketingPipeline/Python-Selenium-Action/blob/main/GitHub_Action_Results.txt)
-
-[Successful Action Run](https://github.com/MarketingPipeline/Python-Selenium-Action/actions/runs/2412796846)
+- [Successful Action Run](https://github.com/MarketingPipeline/Python-Selenium-Action/actions/runs/2412796846)
 
 
 

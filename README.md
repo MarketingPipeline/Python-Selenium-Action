@@ -5,9 +5,17 @@
 <div align="center">
   <img height="400" src="https://i.imgur.com/s0CDqF5.png" />
 
-  
-[![GitHub Contributors](https://img.shields.io/github/contributors/MarketingPipeline/Python-Selenium-Action)](https://github.com/MarketingPipeline/Python-Selenium-Action/graphs/contributors) [![GitHub issues](https://badgen.net/github/issues/MarketingPipeline/Python-Selenium-Action)](https://GitHub.com/MarketingPipeline/Python-Selenium-Action/issues/) [![GitHub License](https://img.shields.io/github/license/MarketingPipeline/Python-Selenium-Action)](https://github.com/MarketingPipeline/Python-Selenium-Action/blob/main/LICENSE) 
-  
+   <br>
+  <small> <b><i>Show your support!</i> </b></small>
+  <br>
+   <a href="https://github.com/MarketingPipeline/Python-Selenium-Action">
+    <img title="Star on GitHub" src="https://img.shields.io/github/stars/MarketingPipeline/Python-Selenium-Action.svg?style=social&label=Star">
+  </a>
+  <a href="https://github.com/MarketingPipeline/Python-Selenium-Action/fork">
+    <img title="Fork on GitHub" src="https://img.shields.io/github/forks/MarketingPipeline/Python-Selenium-Action.svg?style=social&label=Fork">
+  </a>
+   </p>  
+ 
  
 
 

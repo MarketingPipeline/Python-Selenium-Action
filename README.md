@@ -22,7 +22,7 @@
    
  
 No need to struggle to figure out how to run a Python Selenium script with a  [GitHub Action](https://github.com/features/actions). 
-  This is a <b>ready to use</b> template for running Selenium with Python via [GitHub Actions](https://github.com/features/actions) either headless or non-headless.
+  This is a <b>ready to use</b> template for running Selenium with Python via [GitHub Actions](https://github.com/features/actions) either headless or non-headless. <br> Comes with support already provided for taking screenshot's & more via [PyVirtualDisplay](https://pypi.org/project/PyVirtualDisplay/)!
 </div>
 
 

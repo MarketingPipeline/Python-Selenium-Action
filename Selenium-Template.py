@@ -31,7 +31,7 @@ for option in options:
     chrome_options.add_argument(option)
 
     
-driver = webdriver.Chrome()
+driver = webdriver.Chrome(chrome_options = chrome_options)
 
 driver.get('http://github.com')
 print(driver.title)

@@ -62,7 +62,7 @@ An example of the template sucessfully running on GitHub:
 
  - [Results From Successful Python Selenium Action](https://github.com/MarketingPipeline/Python-Selenium-Action/blob/main/GitHub_Action_Results.txt)
 
-- [Successful Action Run](https://github.com/MarketingPipeline/Python-Selenium-Action/actions/runs/2412796846)
+- [Successful Action Run](https://github.com/MarketingPipeline/Python-Selenium-Action/actions/runs/15267015308)
 
 
 
